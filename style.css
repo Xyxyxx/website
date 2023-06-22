@@ -1,0 +1,54 @@
+body {
+    margin: 40px auto;
+    max-width: 1000px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 0;
+}
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #444;
+}
+  
+li.navbar {
+    float: left;
+    color: #eeeeee;
+}
+li.navbar a {
+    display: block;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 14pt;
+    padding: 14px 16px;
+    text-decoration: none;
+}  
+li.navbar a:hover {
+    text-decoration: underline;
+}
+
+blockquote {
+    background-color: lightgray;
+    padding: 10px;
+    max-width: 900px;
+    border: 2px solid #ccc;
+    color: #666666;
+}
+
+.about_me {
+    text-align: left;
+    position: relative;
+}
+.about_me_text {
+    position: absoute;
+    width: 700px;
+    height: 200px;
+}
+.about_me_pic {
+    position: absolute;
+    left: 750px;
+    top: 0px;
+}
