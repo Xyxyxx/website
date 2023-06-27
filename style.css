@@ -1,10 +1,11 @@
 body {
-    margin: 40px auto;
+    margin: 80px auto;
     max-width: 1000px;
     line-height: 1.6;
     font-size: 18px;
     color: #444;
     padding: 0;
+    background-color: #eeeeee;
 }
 ul.navbar {
     list-style-type: none;
