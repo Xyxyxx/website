@@ -1,6 +1,6 @@
 body {
-    margin: 80px auto;
-    max-width: 1000px;
+    margin: 80px auto !important;
+    max-width: 800px;
     line-height: 1.6;
     font-size: 18px;
     color: #444;
@@ -45,11 +45,11 @@ blockquote {
 }
 .about_me_text {
     position: absoute;
-    width: 700px;
-    height: 200px;
+    width: 540px;
+    height: 230px;
 }
 .about_me_pic {
     position: absolute;
-    left: 750px;
+    left: 550px;
     top: 0px;
 }
