@@ -64,4 +64,7 @@ blockquote {
         margin: 40px;
         left: 0%;
     }
+    body {
+        width: 90%;
+    }
 }
